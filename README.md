@@ -12,7 +12,9 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
   <img align="center" alt="Dan-R" height="30" width="40"   
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-<div/>
+  <img align="center" alt="Dan-SAP" height="30" width="55"  
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/SAP-Logo.svg/743px-SAP-Logo.svg.png?20120426114443" />
+  <div/>
 
 ##  
 
