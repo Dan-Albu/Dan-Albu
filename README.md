@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Daniel Albuquerque 👋
 
-- 🔭 I’m currently working on Data Migration on SAP
+- 🔭 I’m currently working with Data Migration on SAP
 - 🌱 I’m currently learning Data Science and  Data Analysis
   
 <div style="display: inline_block"><br>
