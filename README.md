@@ -25,6 +25,14 @@
 
 ##
 
+  <img align="right" alt="Digimon" height="200" width="350" 
+    src="https://64.media.tumblr.com/tumblr_lw9d48ccXK1qbvpv0.gif" />
+    
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan-Albu&show_icons=true&theme=holi)](https://github.com/Dan-Albu/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Albu&layout=compact&theme=holi)](https://github.com/Dan-Albu/github-readme-stats)
+
+
+  
+</div>
+
