@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Daniel Albuquerque 👋
 
-- 🔭 I’m currently working on SAP
-- 🌱 I’m currently learning Data add Analysis
+- 🔭 I’m currently working on Data Migration on SAP
+- 🌱 I’m currently learning Data Science and  Data Analysis
   
 <div style="display: inline_block"><br>
     <img align="center" alt="Dan-Stata" height="40" width="50"
@@ -21,6 +21,10 @@
 <div>
   <a href="https://www.linkedin.com/in/daniel-evilazio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://lattes.cnpq.br/0312115909093021" target="_blank"><img src="https://img.shields.io/badge/-Lattes-orange?style=for-the-badge&logo=GitBook&logoColor=white" target="_blank"></a>
-
-  
 </div>
+
+##
+
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan-Albu&show_icons=true&theme=holi)](https://github.com/Dan-Albu/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Albu&layout=compact&theme=holi)](https://github.com/Dan-Albu/github-readme-stats)
